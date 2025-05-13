@@ -1,13 +1,14 @@
 # Running Prolog on Windows Subsystem for Linux (WSL)
 
-## 📋 Requirements
-- Windows with **WSL** enabled (Ubuntu recommended)
-- Internet connection
+## Requirements
+- Windows with **WSL** enabled 
 
-## 🛠️ Installation Steps
+##  Installation Steps
 
-1. **Open your WSL terminal (Ubuntu)**  
-   You can search **"Ubuntu"** in your Windows Start Menu and open it.
+1. **Open your WSL terminal **  
+   ```bash
+   wsl
+   ```
 
 2. **Update your package manager**
    ```bash
@@ -33,7 +34,7 @@
 
 ---
 
-## 🧪 Running Your First Prolog Program
+## Running Your First Prolog Program
 
 ### 1. **Create a File**
 In your terminal, run:
@@ -87,7 +88,7 @@ no
 
 ---
 
-## 🚪 How to Exit the Interpreter
+## How to Exit the Interpreter
 
 At any `| ?-` prompt, type:
 ```prolog
