@@ -52,11 +52,6 @@ sunny.
 respond('is it sunny') :-
     ( sunny -> write('yes'), nl ; write('no'), nl ).
 ```
-
-Save and exit:
-- Press `CTRL+O` then `Enter` to save.
-- Press `CTRL+X` to exit.
-
 ---
 
 ### 2. **Start GNU Prolog**
