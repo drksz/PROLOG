@@ -41,7 +41,7 @@ In your terminal, run:
 ```bash
 nano sunny.pl
 ```
-
+Optionally, you can also just create a new file through your IDE's gui.
 Paste this short sample:
 
 ```prolog
