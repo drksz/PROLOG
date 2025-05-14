@@ -10,7 +10,7 @@
    wsl
    ```
 
-2. **Update your package manager**
+2. **Update your package manager (only if needed)**
    ```bash
    sudo apt update
    ```
